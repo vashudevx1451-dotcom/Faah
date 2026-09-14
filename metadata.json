@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis AI",
+  "description": "Voice-controlled Jarvis AI assistant with Hindi male voice, phone call, SMS/WhatsApp messaging, app launching, and system automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
